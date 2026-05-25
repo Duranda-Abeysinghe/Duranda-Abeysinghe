@@ -1,106 +1,136 @@
 <div align="center">
 
-<a href="https://github.com/Duranda-Abeysinghe">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=A+P+D+Duranda" alt="Name" />
-</a>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=300&section=header&text=A%20P%20D%20Duranda&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20🇱🇰&descSize=20&descAlignY=62&descColor=a5b4fc)
 
-<a href="https://github.com/Duranda-Abeysinghe">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Software+Engineering+%40+NIBM+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Full+Stack+Developer+%7C+React+%7C+Node+%7C+Python;Building+real+solutions%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Subtitle" />
-</a>
+</div>
 
-<br/>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duranda-abesinghe)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duranda-Abeysinghe)
-[![Profile Views](https://komarev.com/ghpvc/?username=Duranda-Abeysinghe&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Duranda-Abeysinghe)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+the+future%2C+one+commit+at+a+time;💡+React+%7C+Node.js+%7C+Python+%7C+Firebase;🎓+NIBM+Software+Engineering+Undergraduate;🌟+Open+Source+%7C+Clean+Code+%7C+Real+Impact)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duranda-abesinghe)
+[![GitHub](https://img.shields.io/badge/-%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duranda-Abeysinghe)
+[![Profile Views](https://komarev.com/ghpvc/?username=Duranda-Abeysinghe&style=for-the-badge&color=818cf8&label=👁+VIEWS)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=CDD6F4&rank_icon=github&include_all_commits=true" />
-
-### 👨‍💻 whoami
+## 🧑‍💻 About Me
 
 ```typescript
-const duranda = {
-  name     : "A P D Duranda",
-  location : "Sri Lanka 🇱🇰",
-  edu      : "NIBM · Software Engineering",
-  stack    : ["React", "Node.js", "Python",
-              "Firebase", "TypeScript"],
-  interests: ["Full Stack", "DSA", "Cloud"],
-  motto    : "Ship it. Learn it. Repeat. 🚀"
+🌍 const duranda: Developer = {
+    name        : "A P D Duranda",
+    location    : "Colombo, Sri Lanka 🇱🇰",
+    university  : "NIBM · Software Engineering",
+    
+    languages   : ["TypeScript", "JavaScript", "Python"],
+    frontend    : ["React", "HTML5", "CSS3"],
+    backend     : ["Node.js", "Firebase", "REST APIs"],
+    tools       : ["Git", "VS Code", "GitHub"],
+    
+    learning    : "Always. Every single day. 📚",
+    available   : true, // open to opportunities!
+    motto       : "Ship it → Learn it → Improve it 🔁"
 };
 ```
 
-<br clear="right" />
-
 ---
 
-### ⚡ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌿 [**Plantation & Export System**](https://github.com/Duranda-Abeysinghe/Plantation-and-Export-Management-System) | AgriLink — React + Firebase app for plantation tracking, export management & real-time insights | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 📦 [**Inventory Expiry Tracker**](https://github.com/Duranda-Abeysinghe/Inventory-Expiry-Tracking-Tool) | Min Heap + FIFO Queue to track and flag expired or near-expiry products automatically | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ❓ [**Quiz Generator**](https://github.com/Duranda-Abeysinghe/Quiz-Generator) | Generates MCQ, True/False & Short Questions — tiny code, huge value for students 🔥 | — |
-| 🌐 [**Portfolio**](https://github.com/Duranda-Abeysinghe/portfolio) | Personal portfolio website showcasing projects, skills & contact info | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-
----
-
-### 📊 GitHub Analytics
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Duranda-Abeysinghe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF&sideLabels=CDD6F4&dates=CDD6F4&sideNums=CDD6F4&currStreakNum=A78BFA" />
-&nbsp;
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=CDD6F4&langs_count=6" />
+### 🔤 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 
-</div>
+### 🧩 Frameworks & Platforms
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)
 
-<div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=00D9FF&line=A78BFA&point=FFFFFF&area_color=A78BFA&area=true&hide_border=true&custom_title=Contribution+Graph" />
+### 🛠️ Tools & Environment
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+
 </div>
 
 ---
 
-### 🏆 Trophies
+## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Duranda-Abeysinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+| 🏷️ | Project | Description | Tech |
+|:---:|---------|-------------|------|
+| 🌿 | [**Plantation & Export System**](https://github.com/Duranda-Abeysinghe/Plantation-and-Export-Management-System) | AgriLink — modern system replacing manual plantation & export processes with real-time insights | `React` `Firebase` `JS` |
+| 📦 | [**Inventory Expiry Tracker**](https://github.com/Duranda-Abeysinghe/Inventory-Expiry-Tracking-Tool) | Smart tracker using Min Heap + FIFO Queue to auto-flag expired or near-expiry products | `Python` `DSA` |
+| ❓ | [**Quiz Generator**](https://github.com/Duranda-Abeysinghe/Quiz-Generator) | Generates MCQ, True/False & Short Questions — super lightweight & student-friendly 🔥 | `Python` |
+| 🌐 | [**Portfolio Website**](https://github.com/Duranda-Abeysinghe/portfolio) | Personal portfolio showcasing skills, projects & contact info | `HTML` `CSS` |
+
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 💬 Dev Quote
+<img src="https://github-readme-stats.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=CDD6F4&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CDD6F4&langs_count=6" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com?user=Duranda-Abeysinghe&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=C084FC&currStreakLabel=818CF8&sideLabels=CDD6F4&dates=6B7280&currStreakNum=C084FC&sideNums=CDD6F4" />
+
+</div>
+
+<div align="center">
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=818CF8&line=C084FC&point=FFFFFF&area=true&area_color=818CF8&hide_border=true&custom_title=📈+Contribution+Graph" />
+
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Duranda-Abeysinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+
 ---
 
-*Made with ❤️ by **A P D Duranda** · Sri Lanka 🇱🇰*
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
+
+**Thanks for visiting! Drop a ⭐ if something helped you 😊**
 
 </div>
