@@ -75,25 +75,25 @@ const duranda: Developer = {
 
 <div align="center">
 
-![Duranda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=C084FC&text_color=CDD6F4&rank_icon=github&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=C084FC&text_color=CDD6F4&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CDD6F4&langs_count=6)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CDD6F4&langs_count=6)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Duranda-Abeysinghe&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=C084FC&currStreakLabel=818CF8&sideLabels=CDD6F4&dates=6B7280&currStreakNum=C084FC&sideNums=CDD6F4)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Duranda-Abeysinghe&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=C084FC&currStreakLabel=818CF8&sideLabels=CDD6F4&dates=6B7280&currStreakNum=C084FC&sideNums=CDD6F4)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=818CF8&line=C084FC&point=FFFFFF&area=true&area_color=818CF8&hide_border=true&custom_title=📈+Contribution+Graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=818CF8&line=C084FC&point=FFFFFF&area=true&area_color=818CF8&hide_border=true&custom_title=📈+Contribution+Graph)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
@@ -103,7 +103,7 @@ const duranda: Developer = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Duranda-Abeysinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Duranda-Abeysinghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/Duranda-Abeysinghe)
 
 </div>
 
