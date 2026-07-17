@@ -116,8 +116,7 @@ const duranda: Developer = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Duranda-Abeysinghe&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=C7D2FE&dates=6B7280&currStreakNum=22D3EE&sideNums=C7D2FE)
-<!-- If this doesn't render, hard-refresh (Ctrl+F5) — the demolab.com service occasionally has downtime and recovers on its own. -->
+![GitHub Streak](https://raw.githubusercontent.com/Duranda-Abeysinghe/Duranda-Abeysinghe/main/profile/streak.svg)
 
 </div>
 
@@ -142,7 +141,7 @@ const duranda: Developer = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Duranda-Abeysinghe&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6)
+![Trophies](https://raw.githubusercontent.com/Duranda-Abeysinghe/Duranda-Abeysinghe/main/profile/trophy.svg)
 
 </div>
 
