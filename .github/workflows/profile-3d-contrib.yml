@@ -1,0 +1,30 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D contribution calendar
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/*.svg
+          git commit -m "chore: update 3D contribution calendar" || echo "No changes to commit"
+          git push
