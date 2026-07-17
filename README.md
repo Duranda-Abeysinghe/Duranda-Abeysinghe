@@ -114,12 +114,6 @@ const duranda: Developer = {
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://raw.githubusercontent.com/Duranda-Abeysinghe/Duranda-Abeysinghe/main/profile/streak.svg)
-
-</div>
-
 <!-- ================= 3D CONTRIBUTION CALENDAR ================= -->
 ### 3D Contribution Calendar
 
@@ -132,16 +126,6 @@ const duranda: Developer = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=ffffff&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph)
-
-</div>
-
----
-
-## Trophy Cabinet
-
-<div align="center">
-
-![Trophies](https://raw.githubusercontent.com/Duranda-Abeysinghe/Duranda-Abeysinghe/main/profile/trophy.svg)
 
 </div>
 
