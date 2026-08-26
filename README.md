@@ -123,12 +123,6 @@ const duranda: Developer = {
 
 <p align="center"><sub>Powered by the <code>profile-3d-contrib.yml</code> GitHub Action — updates automatically once a day.</sub></p>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranda-Abeysinghe&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=ffffff&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution+Graph)
-
-</div>
-
 ---
 
 <div align="center">
