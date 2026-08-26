@@ -109,8 +109,8 @@ const duranda: Developer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C7D2FE&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C7D2FE&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duranda-Abeysinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C7D2FE&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duranda-Abeysinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C7D2FE&langs_count=8"/>
 
 </div>
 
